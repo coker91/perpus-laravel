@@ -12,7 +12,6 @@ langkah selanjutnya setting database nya di .env
 
 jalankan php artisan migrate
 
-jalankan juga php artisan db:seed
 
 terakhir php artisan serve
 
