@@ -1,8 +1,14 @@
 # perpus-laravel
-user admin : ADMIN12345
-pass admin : admin12345
 
-user 1: Rizky 
-pass : pas123
+jalankan composer update (didalam project perpus)
+lalu jalankan copy .env.example .env
+setelah itu php artisan key:generate
+jangan lupa buat database (perpusku_gc) di phpmyadmin
+langkah selanjutnya setting database nya di .env
+jalankan php artisan migrate
+jalankan juga php artisan db:seed
+terakhir php artisan serve
+Login admin - username : ADMIN12345 - password : admin12345
+Login user - username : Rizky      - password : pas123
 
-Terimakasih!
+selesai deh!
