@@ -1,4 +1,8 @@
 # perpus-laravel
-Cara menggunakan dan selengkapnya bisa kalian buka di website saya gilacoding.com
+user admin : ADMIN12345
+pass admin : admin12345
+
+user 1: Rizky 
+pass : pas123
 
 Terimakasih!
